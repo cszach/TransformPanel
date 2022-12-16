@@ -1,3 +1,5 @@
+package io.github.cszach.TransformPanel;
+
 import java.awt.Rectangle;
 import java.awt.MouseInfo;
 import java.awt.Graphics;
